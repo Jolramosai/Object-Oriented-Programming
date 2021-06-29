@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=MenuEmpresa
+comment0.text=\n\ Write\ a\ description\ of\ class\ MenuEmpresa\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=jcont\ nif
+comment1.target=MenuEmpresa(GestaoContribuinte,\ java.lang.String)
+comment2.params=f1\ f2
+comment2.target=int\ compare(Fatura,\ Fatura)
+numComments=3

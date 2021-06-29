@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Admin
+comment0.text=\n\ Write\ a\ description\ of\ class\ Admin\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=Admin()
+comment10.params=
+comment10.target=java.lang.String\ toString()
+comment10.text=\n\ M\u00E9todo\ que\ converte\ um\ Hotel\ numa\ string\n
+comment2.params=a
+comment2.target=Admin(Admin)
+comment3.params=
+comment3.target=int\ getType()
+comment4.params=
+comment4.target=java.lang.String\ getNif()
+comment5.params=
+comment5.target=java.lang.String\ getPass()
+comment6.params=nif
+comment6.target=void\ setNif(java.lang.String)
+comment7.params=pass
+comment7.target=void\ setPass(java.lang.String)
+comment8.params=o
+comment8.target=boolean\ equals(java.lang.Object)
+comment9.params=
+comment9.target=Admin\ clone()
+numComments=11

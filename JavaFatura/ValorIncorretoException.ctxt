@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=ValorIncorretoException
+comment0.text=\n\ Write\ a\ description\ of\ class\ ValorIncorretoException\ here.\n\n\ @author\ (your\ name)\n\ @version\ (a\ version\ number\ or\ a\ date)\n
+comment1.params=
+comment1.target=ValorIncorretoException()
+comment1.text=\n\ M\u00E9todo\ construtor\ n\u00E3o\ paramtrizado\n
+comment2.params=msg
+comment2.target=ValorIncorretoException(java.lang.String)
+comment2.text=\n\ M\u00E9todo\ construtor\ parametrizado\n\ \n\ @param\ String\ msg\n
+numComments=3

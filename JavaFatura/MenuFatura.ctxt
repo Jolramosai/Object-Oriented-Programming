@@ -1,0 +1,5 @@
+#BlueJ class context
+comment0.target=MenuFatura
+comment1.params=jcont\ nif
+comment1.target=MenuFatura(GestaoContribuinte,\ java.lang.String)
+numComments=2
